@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" role="img" aria-labelledby="title desc">
+<title id="title">Original photo unavailable</title>
+<desc id="desc">A neutral illustration placeholder. The supplied PDF did not include the original photograph.</desc>
+<rect width="600" height="750" fill="#E8DDD3"/>
+<path d="M0 520 160 360l105 105 95-125 240 260v150H0Z" fill="#C9B8A8"/>
+<circle cx="300" cy="260" r="92" fill="#B48E79"/>
+<path d="M130 650c12-150 75-230 170-230s158 80 170 230" fill="#8E6D60"/>
+<rect x="55" y="55" width="490" height="640" rx="18" fill="none" stroke="#4A1D29" stroke-width="8" stroke-dasharray="14 12" opacity=".45"/>
+<text x="300" y="710" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" fill="#4A1D29">Replace with original photo</text>
+</svg>
